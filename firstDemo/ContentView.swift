@@ -29,6 +29,7 @@ struct ContentView: View {
         
             Spacer()
             Text("🇸🇦")
+            Text("flag")
         }
         .padding() // Add padding around the entire HStack
         
